@@ -1,0 +1,3 @@
+/Users/andrewaburustum/CLionProjects/Orbit/cmake-build-debug/CMakeFiles/Orbit.dir
+/Users/andrewaburustum/CLionProjects/Orbit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewaburustum/CLionProjects/Orbit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
